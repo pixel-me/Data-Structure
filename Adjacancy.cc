@@ -15,6 +15,7 @@ int main()
             matrix[i][j] = 0;
         }
     }
+    
     printf("\nEnter the edges connection..\n");
     for (int i = 1; i <= e; i++)
     {
