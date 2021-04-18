@@ -3,6 +3,7 @@
 int main()
 {
     int v, e, s, d;
+    
     printf("Enter the number of vertices: ");
     scanf("%d", &v);
     printf("\nEnter the number of edges: ");
